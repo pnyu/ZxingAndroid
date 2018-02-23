@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\StudyProjects\ZxingAndroid\app\src\main\lib\core-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f47e3fc99fb2755b8a354d60efa021a0b88f4180">
+        <dex dex="E:\AndroidStudioProjects\StudyProjects\ZxingAndroid\app\build\intermediates\pre-dexed\debug\core-3.3.2_c3db3e4f9dbc245a8ae2863b776c372e6e3ba60b.jar" />
+    </item>
+
+</items>
